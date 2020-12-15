@@ -1,0 +1,22 @@
+The Complete Guide to ITIL 4
+https://www.bmc.com/blogs/itil-4/
+
+ITIL Information Security Management
+https://www.bmc.com/blogs/itil-information-security-management/
+
+ITIL Four Dimensions of Service Management
+https://www.bmc.com/blogs/itil-four-dimensions-service-management/
+
+ITIL The 4 Dimensions of ITIL4: Value Streams & Processes
+https://info.axiossystems.com/blog/itil4-value-streams-and-processes
+
+ITIL Continual Improvement
+https://www.bmc.com/blogs/itil-continual-improvement/
+
+ITIL What is the ITIL 4 Service Value Chain
+
+The ITIL 4 Service Value Chain
+https://www.bmc.com/blogs/itil-service-value-chain/
+
+What is information Security Management from an ITIL perspective
+https://www.itilnews.com/index.php?pagename=What_is_Information_Security_Management_from_an_ITIL_perspective
