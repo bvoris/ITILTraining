@@ -20,3 +20,6 @@ https://www.bmc.com/blogs/itil-service-value-chain/
 
 What is information Security Management from an ITIL perspective
 https://www.itilnews.com/index.php?pagename=What_is_Information_Security_Management_from_an_ITIL_perspective
+
+ITIL Key Concepts and Summary
+https://www.simplilearn.com/itil-key-concepts-and-summary-article
